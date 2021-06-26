@@ -8,8 +8,8 @@
 html, body {
   height: 100%;
   margin: 0;
-  background-color: black;
-  /* animation: myanimation 3600s infinite */
+  /* background-color: black; */
+  animation: myanimation 3600s infinite
 }
 @keyframes myanimation {
   0% {background-color: rgb(80, 218, 80);}
