@@ -8,6 +8,20 @@
 html, body {
   height: 100%;
   margin: 0;
+  animation: myanimation 600s infinite
+}
+@keyframes myanimation {
+  0% {background-color: rgb(80, 218, 80);}
+  10%{background-color:#ffd54f;}
+  20% {background-color: rgb(80, 218, 80);}
+  30%{background-color:#ffd54f;}
+  40% {background-color: rgb(80, 218, 80);}
+  50%{background-color:#ffd54f;}
+  60% {background-color: rgb(80, 218, 80);}
+  70%{background-color:#ffd54f;}
+  80% {background-color: rgb(80, 218, 80);}
+  90%{background-color:#ffd54f;}
+  100% {background-color: rgb(80, 218, 80);}
 }
 
 body {
